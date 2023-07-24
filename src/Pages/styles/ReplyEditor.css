@@ -1,0 +1,30 @@
+.reply-editor-text {
+    margin: 1em 20%;
+}
+
+.reply-editor-space {
+    margin: 1em 20%;
+    height: 20%;
+}
+
+.reply-editor-body {
+    margin: 1em 20%;
+    height: auto;
+    width: 40%;
+}
+
+.reply-editor-button {
+    float: right;
+    margin: 1em 20%;
+}
+
+
+@media(max-width: 900px) {
+    .reply-editor {
+        margin: 1em;
+    }
+
+    .reply-body {
+        margin: 1em;
+    }
+}

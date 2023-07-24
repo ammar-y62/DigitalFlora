@@ -1,0 +1,35 @@
+.post-editor-text {
+    margin: 1em 20%;
+}
+
+.post-editor-space {
+    margin: 1em 20%;
+    height: 20%;
+}
+
+.post-editor-subject {
+    margin: 1em 20%;
+    height: max-content;
+}
+
+.post-editor-body {
+    margin: 1em 20%;
+    height: auto;
+    width: 40%;
+}
+
+.post-editor-button {
+    float: right;
+    margin: 1em 20%;
+}
+
+
+@media(max-width: 900px) {
+    .post-editor {
+        margin: 1em;
+    }
+
+    .post-body {
+        margin: 1em;
+    }
+}
